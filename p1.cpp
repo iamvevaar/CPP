@@ -37,7 +37,7 @@ cin>>balance;
 void deposit()
 {
 int bal;
-cout<<"\nEnter the amout to deposit:";
+cout<<"\nEnter the amount to deposit:";
 cin>>bal;
 balance+=bal;
 cout<<"\nAmount deposited successfuly\nYour New Balance:"<<balance;
