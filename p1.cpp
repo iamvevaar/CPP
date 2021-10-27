@@ -99,20 +99,5 @@ default:
     cout<<"please enter the correct choice";
 }
 
-
-
-
-                                                                        // if(i==1)
-                                                                        // {
-                                                                        // bk.display();
-                                                                        // }
-                                                                        // else if(i==2)
-                                                                        // {
-                                                                        // bk.deposit();
-                                                                        // }
-                                                                        // else if(i==3)
-                                                                        // {
-                                                                        // bk.check();
-                                                                        // }
 return 0;
 }
